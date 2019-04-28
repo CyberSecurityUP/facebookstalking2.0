@@ -9,3 +9,5 @@ O uso dela é bem fácil, basicamente é só ter em mãos o ID do facebook da pe
 Após isso é só iniciar:
 
 **Python3 facebookstalking.py**
+
+Ferramenta criada por **Joas Antonio**
