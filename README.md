@@ -11,3 +11,6 @@ Após isso é só iniciar:
 **Python3 facebookstalking.py**
 
 Ferramenta criada por **Joas Antonio**
+
+
+*PROJETO DESCONTINUADO*
